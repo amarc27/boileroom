@@ -1,2 +1,2 @@
 # boileroom
-Simple, updated and stable boilerplates
+Simple, updated and stable boilerplates for everyone
